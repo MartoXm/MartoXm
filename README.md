@@ -1,16 +1,56 @@
 ## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel
 
-<!--
-**MartoXm/MartoXm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Sistemas de Informação (1º período)** e estou iniciando minha jornada no mundo da programação. Estou construindo minha base em lógica, desenvolvimento web, Python e bancos de dados, sempre buscando evoluir através de prática e projetos simples.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 O que estou estudando atualmente
+- Algoritmo e lógica de programação  
+- HTML5 e CSS3  
+- Git e GitHub  
+- Python 3 (Mundo 1 – Curso em Vídeo)  
+- Banco de Dados (MySQL)  
+- Fundamentos de Sistemas de Informação (faculdade)
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+- **Linguagens:** HTML5, CSS3, Python (básico)  
+- **Banco de Dados:** MySQL (básico)  
+- **Ferramentas:** Git, GitHub, VS Code  
+- **Interesses:** Desenvolvimento web, Python avançado, JavaScript
+
+---
+
+## 🚀 Projetos iniciais
+Estou começando a montar meus primeiros projetos e exercícios:
+
+- **Exercícios de Python – Curso em Vídeo**  
+  Repositório com desafios e práticas do curso.  
+  🔗 *em montagem*
+
+- **Página simples em HTML e CSS**  
+  Meu primeiro projeto web, focado em estrutura e estilização.  
+  🔗 *em montagem*
+
+- **Estudos de MySQL**  
+  Scripts e consultas básicas criadas durante meus estudos.  
+  🔗 *em montagem*
+
+---
+
+## 🎯 Objetivos
+- Criar projetos pequenos para praticar lógica e web  
+- Evoluir em Python e desenvolvimento front-end  
+- Construir um portfólio sólido ao longo da faculdade  
+- Conseguir meu primeiro estágio na área de tecnologia
+
+---
+
+## 📫 Como me encontrar
+- Email: *gabriel.martorelli@hotmail.com*
+- LinkedIn: *em montagem*
+---
+
+⭐ *Obrigado por visitar meu perfil! Estou sempre aprendendo e evoluindo.*
