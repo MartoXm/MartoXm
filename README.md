@@ -50,7 +50,7 @@ Estou começando a montar meus primeiros projetos e exercícios:
 
 ## 📫 Como me encontrar
 - Email: *gabriel.martorelli@hotmail.com*
-- LinkedIn: *em montagem*
+- LinkedIn: *https://www.linkedin.com/in/gabriel-martorelli-835182359/*
 ---
 
 ⭐ *Obrigado por visitar meu perfil! Estou sempre aprendendo e evoluindo.*
