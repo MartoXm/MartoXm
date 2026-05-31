@@ -44,7 +44,11 @@ Estou construindo projetos reais com **.NET 10** para consolidar conhecimentos e
 
 ## 📊 GitHub Stats
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=martoxm&theme=tokyonight&no-frame=true&row=1&v=20260505)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=martoxm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=martoxm&show_icons=true&theme=tokyonight&hide_border=true" />
+
 
 ---
 
